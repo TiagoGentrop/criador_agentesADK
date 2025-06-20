@@ -29,6 +29,13 @@ Este projeto foi organizado para separar claramente a lógica, as ferramentas e 
 ├── requirements.txt      
 └── README.md             
 ```
+## ▶️ Como Executar o Agente
+
+Após configurar o ambiente e instalar as dependências (`requirements.txt`), você pode iniciar o agente com o seguinte comando:
+
+```bash
+python gerador.py
+```
 
 ### **Propósito dos Arquivos**
 
