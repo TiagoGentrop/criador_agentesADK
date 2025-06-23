@@ -13,7 +13,7 @@ de agentes, garantindo consistência e boas práticas de organização de códig
 
 ## 📂 Estrutura do Projeto
 
-Este projeto foi organizado para separar claramente a lógica, as ferramentas e as configurações. Abaixo está a descrição de cada componente principal.
+Este projeto foi organizado para separar claramente a lógica, as ferramentas e as configurações. Abaixo está a descrição de cada componente gerado.
 
 ### **Visão Geral da Estrutura**
 
@@ -26,12 +26,11 @@ Este projeto foi organizado para separar claramente a lógica, as ferramentas e 
 ├── __init__.py           
 ├── agent.py              
 ├── prompt.py             
-├── requirements.txt      
-└── README.md             
+└── requirements.txt               
 ```
 ## ▶️ Como Executar o Agente
 
-Após configurar o ambiente e instalar as dependências (`requirements.txt`), você pode iniciar o agente com o seguinte comando:
+você pode criar um agente com o seguinte comando:
 
 ```bash
 python gerador.py
